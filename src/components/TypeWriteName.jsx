@@ -2,7 +2,7 @@ import { TypewriterEffect } from "./ui/TypewriterEffect";
 
 const TypeWriteName = () => {
   const handleDownloadResume = () => {
-    window.open("https://drive.google.com/file/d/1Sa0yPnl-0fFAjMQZX9f3Fx0Lzeb2BLHh/view?usp=drive_link");
+    window.open("https://drive.google.com/file/d/1NWN95612HniD-PZjzCxH22X3GY8Z9ODo/view?usp=drive_link");
   };
 
   const scrollToContact = () => {
